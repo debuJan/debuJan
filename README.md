@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debuJan
+- 👋 Hi, I’m @debuJan and I am pursuing my undergraduate in B.TECH CSE (DATA SCIENCE) from CV Raman Global University 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning a programming language 
 <!---
